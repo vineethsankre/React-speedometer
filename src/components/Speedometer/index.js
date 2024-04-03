@@ -19,11 +19,11 @@ class Speedometer extends Component {
   render() {
     const {speed} = this.state
     return (
-      <div className="bg-container">
-        <div className="banner-container">
+      <div className="speedometer-app-container">
+        <div className="speedometer-container">
           <h1 className="heading">SPEEDOMETER</h1>
           <img
-            className="image"
+            className="speedometer-image"
             src="https://assets.ccbp.in/frontend/react-js/speedometer-img.png"
             alt="speedometer"
           />
