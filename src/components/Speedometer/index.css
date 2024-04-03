@@ -35,6 +35,21 @@
   font-family: 'Roboto';
   font-size: 16px;
 }
+@media screen and (min-width: 768px) {
+  .heading {
+    font-size: 48px;
+  }
+  .speedometer-image {
+    width: 700px;
+    height: 300px;
+  }
+  .speed-text {
+    font-size: 32px;
+  }
+  .speed-limits {
+    font-size: 16px;
+  }
+}
 .buttons-container {
   margin-top: 48px;
 }
