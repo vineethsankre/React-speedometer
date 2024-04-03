@@ -12,9 +12,9 @@ class Speedometer extends Component {
             src="https://assets.ccbp.in/frontend/react-js/speedometer-img.png"
             alt="speedometer"
           />
-          <p className="speed">Speed is 0mph</p>
+          <h1 className="speed">Speed is 0mph</h1>
           <p className="speed-limit">
-            Min limit is 0mph and Max Limit is 200mph
+            Min Limit is 0mph, Max Limit is 200mph
           </p>
           <div className="buttons-container">
             <button className="button accelerate-btn" type="button">
