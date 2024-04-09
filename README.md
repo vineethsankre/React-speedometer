@@ -1,4 +1,4 @@
-In this project, we’ll create a **Speedometer** that allows users to control the speed using accelerate and brake buttons.
+In this project, we’ll create a **Speedometer** react app that allows users to control the speed using accelerate and brake buttons.
 
 ### Preview:
 
