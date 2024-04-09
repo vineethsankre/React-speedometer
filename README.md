@@ -1,4 +1,4 @@
-In this project, let's build a **Speedometer** in which the speed is controlled using accelerate and brake buttons.
+In this project, we’ll create a **Speedometer** that allows users to control the speed using accelerate and brake buttons.
 
 ### Preview:
 
