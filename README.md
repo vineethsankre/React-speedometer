@@ -1,4 +1,4 @@
-In this project, let's build a **Speedometer** by applying the concepts we have learned till now.
+In this project, let's build a **Speedometer** in which the speed is controlled using accelerate and brake buttons.
 
 ### Preview:
 
